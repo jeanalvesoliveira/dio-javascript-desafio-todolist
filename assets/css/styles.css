@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #dbe3db;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#controls{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+#btnAdd{
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid #008033;
+    color: #16502d;
+    background-color: #5fd38d;
+    border-radius: 5px;
+}
+
+#inputTask{
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid #008033;
+    color: #16502d;
+    background-color: #d7f4e3;
+    border-radius: 5px;
+}
